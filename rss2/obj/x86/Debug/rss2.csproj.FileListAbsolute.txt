@@ -1,0 +1,5 @@
+C:\Users\JCares\Documents\Projects\rss2\rss2\bin\Debug\rss2.exe
+C:\Users\JCares\Documents\Projects\rss2\rss2\bin\Debug\rss2.pdb
+C:\Users\JCares\Documents\Projects\rss2\rss2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JCares\Documents\Projects\rss2\rss2\obj\x86\Debug\rss2.exe
+C:\Users\JCares\Documents\Projects\rss2\rss2\obj\x86\Debug\rss2.pdb
